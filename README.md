@@ -34,4 +34,3 @@ Always curious and driven, I love exploring new technologies and collaborating o
 
 ---
 
-✨ *“Code, learn, and build — every project is a step forward.”*
